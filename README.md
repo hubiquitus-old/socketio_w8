@@ -3,7 +3,7 @@ socketio_w8
 
 Socketio client librairy for Windows 8.
 
-Since the package [SocketIO4Net](http://socketio4net.codeplex.com/) is not supported for Windows Store App, we modified the source code to adapt the windows 8.
+Since the package [SocketIO4Net](http://socketio4net.codeplex.com/) is not supported for Windows Store App, we modified the source code to adapt it to the windows 8 plateform.
 Something different: 
 We didn’t implement the reconnection because it will be treated in hAPI.
 
